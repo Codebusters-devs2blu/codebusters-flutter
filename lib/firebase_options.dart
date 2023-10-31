@@ -50,18 +50,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAAialPiD_HNGnnue8NYb8mvCns4_9hm8U',
-    appId: '1:751428921020:web:c03c0d646ad070485fd2b9',
-    messagingSenderId: '751428921020',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'codebustersflutter',
     authDomain: 'codebustersflutter.firebaseapp.com',
     storageBucket: 'codebustersflutter.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBwimoibg90X_BDnfiMf5sQn33RAwr9NTg',
-    appId: '1:751428921020:android:26829a6084efff945fd2b9',
-    messagingSenderId: '751428921020',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'codebustersflutter',
     storageBucket: 'codebustersflutter.appspot.com',
   );
